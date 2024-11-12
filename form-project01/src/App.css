@@ -1,0 +1,9 @@
+input, select {
+  padding: 0.3em;
+}
+hr {
+  margin: 2em 0;
+}
+.control {
+  margin-bottom: 1em;
+}
