@@ -1,0 +1,25 @@
+* {
+  padding:0;
+  margin:0;
+  font-weight:inherit;
+  box-sizing:border-box;
+}
+
+body {
+  font-weight:300;
+}
+
+.box {
+  padding:40px;
+  margin:40px 20px;
+  border:1px solid #ccc;
+}
+
+.box h1 {
+  margin-bottom:24px;
+}
+
+.box button {
+  min-width:88px;
+  height:40px;
+}
