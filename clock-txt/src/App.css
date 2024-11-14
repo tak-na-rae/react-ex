@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-weight: inherit;
+  box-sizing: border-box;
+}
+
+body {
+  font-weight: 300;
+  color: #222;
+}
+
+.Clock {
+  width: 100vw;
+  height: 100vh;
+  padding: 80px;
+  text-align: center;
+  display: table;
+}
+
+.Clock .item {
+  padding-bottom: 60px;
+  line-height: 1;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.Clock h1 {
+  margin-bottom:24px;
+  font-size: 18px;
+  color: #666;
+}
+
+.Clock p {
+  font-size: 24px;
+}

@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-weight: inherit;
+  box-sizing: border-box;
+}
+
+body {
+  font-weight: 300;
+}
+
+.box {
+  padding: 60px;
+}
