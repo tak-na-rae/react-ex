@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: inherit;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1;
+  font-weight: 300;
+  color: #222;
+}
+
+ul,li {
+  list-style: none;
+}
+
+input[type="text"]:focus {
+  border-color: #2593ff;
+  outline: none;
+}
+
+button {
+  border: 0;
+  cursor: pointer;
+}
+
+.App {
+  width: 600px;
+  padding: 80px 20px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}

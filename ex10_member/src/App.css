@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-weight: inherit;
+  box-sizing: border-box;
+}
+
+body {
+  font-weight: 300;
+  color: #222;
+}
+
+ul, ol {
+  list-style: none;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
